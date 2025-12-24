@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FOREVER LOVE",
+  "base_artist": "X JAPAN",
+  "createdAt": "2025-12-24T11:57:19.296603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chance (Forever Love)",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/01_Chance_(Forever_Love)_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_Forever_Love_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Robin Thicke",
+      "has_synced": true,
+      "path": "select/03_Forever_Love_Robin_Thicke.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Love You More",
+      "artist": "Anita Ward",
+      "has_synced": false,
+      "path": "select/04_Forever_Love_You_More_Anita_Ward.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Gary Barlow",
+      "has_synced": true,
+      "path": "select/05_Forever_Love_Gary_Barlow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Gary Barlow",
+      "has_synced": true,
+      "path": "select/06_Forever_Love_Gary_Barlow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Gary Barlow",
+      "has_synced": true,
+      "path": "select/07_Forever_Love_Gary_Barlow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Gary Barlow",
+      "has_synced": true,
+      "path": "select/08_Forever_Love_Gary_Barlow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FOREVER LOVE",
+      "artist": "Kassy",
+      "has_synced": true,
+      "path": "select/09_FOREVER_LOVE_Kassy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FOREVER LOVE",
+      "artist": "X JAPAN (X)",
+      "has_synced": false,
+      "path": "select/10_FOREVER_LOVE_X_JAPAN_(X).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/11_Forever_Love_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forever Love - VIP Mix",
+      "artist": "TeddyLoid",
+      "has_synced": false,
+      "path": "select/12_Forever_Love_-_VIP_Mix_TeddyLoid.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Frozen Medley: Do You Wanna Build a Snowman? / For the First Time in Forever / Love Is an Open Door / Let It Go",
+      "artist": "Anthem Lights",
+      "has_synced": true,
+      "path": "select/13_Frozen_Medley__Do_You_Wanna_Build_a_Snowman____For_the_First_Time_in_Forever___L_Anthem_Lights.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forever Love - Afrojack Remix",
+      "artist": "Robin Thicke",
+      "has_synced": true,
+      "path": "select/14_Forever_Love_-_Afrojack_Remix_Robin_Thicke.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forever Love",
+      "artist": "Taio Cruz",
+      "has_synced": true,
+      "path": "select/15_Forever_Love_Taio_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Strawberry Fields Forever (Love Remix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Strawberry_Fields_Forever_(Love_Remix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "FOREVER LOVE ME",
+      "artist": "Symbol",
+      "has_synced": true,
+      "path": "select/17_FOREVER_LOVE_ME_Symbol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever Love",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_Love_X_JAPAN.txt"
+    }
+  ]
+}
